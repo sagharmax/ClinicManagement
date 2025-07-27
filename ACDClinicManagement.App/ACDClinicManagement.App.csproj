@@ -16,7 +16,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <PublishUrl>ftp://www.sagharmax.com/httpdocs/applications/acdclinicmanagement/</PublishUrl>
+    <PublishUrl>ftp://www.sagharmax.com/httpdocs/applications/ophthalmology_clinic_management/</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -26,9 +26,9 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://www.sagharmax.com/applications/acdclinicmanagement/</InstallUrl>
+    <InstallUrl>https://www.sagharmax.com/applications/ophthalmology_clinic_management/</InstallUrl>
     <SupportUrl>https://sagharmax.com</SupportUrl>
-    <ProductName>Ophthalmology Office Management</ProductName>
+    <ProductName>Ophthalmology Clinic Management Syestem</ProductName>
     <PublisherName>Saeid Ghasemi</PublisherName>
     <SuiteName>Saeid Ghasemi</SuiteName>
     <MinimumRequiredVersion>3.0.0.0</MinimumRequiredVersion>
