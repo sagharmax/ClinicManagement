@@ -2,5 +2,4 @@
   <Project Path="ACDClinicManagement.App/ACDClinicManagement.App.csproj" Id="04615f3b-ea83-4339-98de-ba498f9e6221" />
   <Project Path="ACDClinicManagement.AppHelpers/ACDClinicManagement.AppHelpers.csproj" Id="d4f15af5-2069-4a77-8366-9ecee9255e63" />
   <Project Path="ACDClinicManagement.Common/ACDClinicManagement.Common.csproj" />
-  <Project Path="ACDClinicManagement.Tests/ACDClinicManagement.Tests.csproj" Id="6b3de5b4-cc8b-4f86-b9e9-946e38bcbf5f" />
 </Solution>
