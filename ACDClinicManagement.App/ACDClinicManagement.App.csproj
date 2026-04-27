@@ -16,7 +16,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <PublishUrl>ftp://sagharmax.com/httpdocs/applications/ophthalmology_clinic_management/</PublishUrl>
+    <PublishUrl>ftp://sagharmax.dev/sagharmax.dev/wwwroot/applications/clinic_management_system/</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -26,16 +26,16 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://sagharmax.com/applications/ophthalmology_clinic_management/</InstallUrl>
-    <SupportUrl>https://sagharmax.com</SupportUrl>
-    <ProductName>Ophthalmology Clinic Management System</ProductName>
+    <InstallUrl>https://sagharmax.dev/applications/clinic_management_system/</InstallUrl>
+    <SupportUrl>https://sagharmax.dev</SupportUrl>
+    <ProductName>Clinic Management System</ProductName>
     <PublisherName>Saeid Ghasemi</PublisherName>
     <SuiteName>Saeid Ghasemi</SuiteName>
-    <MinimumRequiredVersion>3.0.0.0</MinimumRequiredVersion>
+    <MinimumRequiredVersion>3.1.0.0</MinimumRequiredVersion>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>setup.html</WebPage>
     <ApplicationRevision>1</ApplicationRevision>
-    <ApplicationVersion>3.0.0.%2a</ApplicationVersion>
+    <ApplicationVersion>3.1.0.%2a</ApplicationVersion>
     <UseApplicationTrust>true</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
     <PublishWizardCompleted>true</PublishWizardCompleted>
